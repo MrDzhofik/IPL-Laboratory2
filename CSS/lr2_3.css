@@ -1,0 +1,24 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 40px;
+}
+
+main {
+    margin-top: 15px;
+}
+
+footer {
+    height: 40px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.my-primary {
+    background-color: chartreuse;
+    color: black;
+}

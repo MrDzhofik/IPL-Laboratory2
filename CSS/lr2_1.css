@@ -1,0 +1,33 @@
+.ten{
+    font-size: 14px;
+}
+
+.em {
+    font-style: oblique;
+}
+
+.strong{
+    font-weight: 700;
+}
+
+.mark{
+    background-color: yellow;
+}
+
+.s{
+    text-decoration: line-through;
+}
+
+.small{
+    font-size: medium;
+}
+
+.sub{
+    vertical-align: sub;
+    font-size: 10px;
+}
+
+.sup{
+    vertical-align: super;
+    font-size: 10px;
+}

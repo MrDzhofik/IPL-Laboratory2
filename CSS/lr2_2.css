@@ -1,0 +1,45 @@
+
+.table{
+    display: table;
+    border-style: double;
+    border-radius: 5px;;
+}
+
+.table_title{
+    border-style: inset;
+    padding-right: 13px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    display: table-cell;
+}
+
+#par{
+    padding-right: 120px;
+    padding-left: 120px;
+}
+
+.time{
+    border-style: inset;
+    padding: 15px;
+    display: table-cell;
+}
+
+.object{
+    border-style: inset;
+    padding: 15px;
+    display: table-cell;
+}
+
+.all_obj{
+    border-style: inset;
+    padding: 15px;
+    padding-right: 37px;
+    display: table-cell;
+    align-content: center;
+}
+
+#FV{
+    padding-right: 214px;
+}
+
